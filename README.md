@@ -1,3 +1,3 @@
-* https://pages.github.com/
+URL: https://pstauffer.github.io/
 
-URL: http://pstauffer.github.io/
+Infos: https://pages.github.com/
